@@ -15,7 +15,7 @@ main()
     printf("%d, ", nt);
     t1 = t2;
     t2 = nt;
-    nt =t1+t2;
-}
+    nt = t1 + t2;
+  }
 
 }
